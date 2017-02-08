@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class catTester
+public class CatTest
 {
 	@Test
 	public void	TestInitial()
